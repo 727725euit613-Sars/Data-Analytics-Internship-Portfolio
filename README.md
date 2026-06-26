@@ -129,7 +129,7 @@ Add screenshots of your dashboards, charts, and project outputs in the `Images` 
 
 **👤 Name:** Sanjay Rahul S
 
-**LinkedIn:** https://www.linkedin.com/in/sanjayrahuls
+**LinkedIn:** www.linkedin.com/in/sanjayrahul-s
 
 **GitHub:** https://github.com/727725euit613-Sars
 
